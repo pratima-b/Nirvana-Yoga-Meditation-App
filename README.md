@@ -167,15 +167,6 @@ We welcome contributions from the community! Here's how you can help:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact 📬
-
-For any inquiries or feedback, feel free to reach out:
-
-- **Email:** [support@nirvanaapp.com](mailto:support@nirvanaapp.com)
-- **Website:** [NirvanaApp.com](https://nirvanaapp.com)
-
-Thank you for checking out Nirvana! We hope it helps you find peace and balance in your life. Namaste 🙏
-
 ---
 
-*Nirvana is developed and maintained by ASAP Coders.™*
+Thank you for checking out Nirvana! We hope it helps you find peace and balance in your life. Namaste 🙏
