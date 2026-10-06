@@ -42,7 +42,7 @@ Welcome to **Nirvana**, a comprehensive meditation and relaxation application bu
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/paa-rth/nirvana.git
+   git clone https://github.com/pratima-b/Nirvana-Yoga-Meditation-App.git
    ```
 2. **Open the project in Android Studio:**
    - File -> Open -> Select the `nirvana` directory
